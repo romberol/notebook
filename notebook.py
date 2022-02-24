@@ -1,3 +1,6 @@
+"""
+This module can be used to create notes, change them and navigate through notebook
+"""
 from datetime import datetime
 
 class Note():
